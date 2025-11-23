@@ -1,0 +1,14 @@
+.DS_Store
+
+# cache
+**/__pycache__
+
+# documents
+doc/
+
+# dataset
+**/dataset
+
+# log
+**/log
+**/tb_log
