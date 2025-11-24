@@ -12,3 +12,7 @@ doc/
 # log
 **/log
 **/tb_log
+
+# jupyter
+jupyter/
+
